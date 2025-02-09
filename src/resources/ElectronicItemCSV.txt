@@ -1,0 +1,3 @@
+101,Smartphone,699.99,24
+102,Laptop,999.99,12
+103,WashingMachine,299.99,7
